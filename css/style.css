@@ -12,8 +12,11 @@
 }
 .wrapper{
     width: 80%;
-    margin: 30px auto;
+    margin:auto;
     text-align: center;
 }
 
 /* page body */
+header{
+    margin:  30px;
+}
